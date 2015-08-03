@@ -1,2 +1,2 @@
 # showcake
-A  website  designed Exclusively for Homebakers.
+A  website  designed exclusively for Homebakers.
